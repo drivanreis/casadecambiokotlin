@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency View</string>
+    <string name="main_currency">Moeda</string>
+    <string name="main_load_currency">Carregando moedas...</string>
+    <string name="main_select_currency">Selecione uma moeda.</string>
+    <string name="main_currency_converter">Conversor de Moedas</string>
+    <string name="main_connection_error">Erro de conexão</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emirados_arabes_unidos">EAD - Emirados Árabes Unidos</string>
+    <string name="cotacao">R$ 3.10</string>
+</resources>
